@@ -6,7 +6,7 @@
 
 int main(){
 
-    printf("Hello Git and GitHub!!!");
+    printf("Hello World!!!");
 
     getch();
     return 0;
